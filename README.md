@@ -5,11 +5,11 @@
 
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+There!+%F0%9F%91%8B+I'm+Roshan+K.;DevSecOps+Engineer+%26+SRE+%E2%98%81%EF%B8%8F;6%2B+Years+Building+Cloud+Platforms;Security+%7C+Scale+%7C+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+There!+%F0%9F%91%8B+I'm+Roshan+Kakarla;DevSecOps+Engineer+%26+SRE+%E2%98%81%EF%B8%8F;6%2B+Years+Building+Cloud+Platforms;Security+%7C+Scale+%7C+Reliability" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00D9FF&height=120&section=header&text=Roshan%20K.&fontSize=40&fontColor=fff&fontAlignY=75&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00D9FF&height=120&section=header&text=Roshan%20Kakarla.&fontSize=40&fontColor=fff&fontAlignY=75&animation=fadeIn" width="100%"/>
 </div>
 
 ---
@@ -92,7 +92,7 @@ Beyond engineering, I actively publish **peer-reviewed research** at the interse
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-k-221681200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Kakarla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-k-221681200)
 [![GitHub](https://img.shields.io/badge/GitHub-Rkaka1041-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rkaka1041)
 [![Portfolio](https://img.shields.io/badge/Portfolio-roshankakarla.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.roshankakarla.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-5%20Papers-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Roshan-Kakarla)
@@ -106,12 +106,12 @@ Beyond engineering, I actively publish **peer-reviewed research** at the interse
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rkaka1041&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rkaka1041&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rkaka1041&theme=tokyonight&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Rkaka1041&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaka1041&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaka1041&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" width="48%" alt="Top Languages"/>
 </div>
 
 ---
