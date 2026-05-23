@@ -106,12 +106,12 @@ Beyond engineering, I actively publish **peer-reviewed research** at the interse
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rkaka1041&theme=tokyonight&hide_border=false&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rkaka1041&theme=tokyonight&hide_border=false&show_icons=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=Rkaka1041&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaka1041&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkaka1041&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" width="48%" alt="Top Languages"/>
 </div>
 
 ---
